@@ -6,7 +6,7 @@ This project implements Emotion Detection using Convolutional Neural Networks (C
 
 ## Dataset
 
-The model is trained on the [FER2013 dataset](https://www.kaggle.com/deadskull7/fer2013), which consists of 35,887 grayscale images of size 48x48 pixels, each labeled with one of seven emotions.
+The model is trained on the kaggle data, which consists of 35,887 grayscale images of size 48x48 pixels, each labeled with one of seven emotions.
 
 ## Requirements
 
